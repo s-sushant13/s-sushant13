@@ -43,6 +43,6 @@
   
 ### Linguistics:
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ishaan2053&layout=compact&theme=transparent&hide_border=true&card_width=1000px&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)   
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=s-sushant13&layout=compact&theme=transparent&hide_border=true&card_width=1000px&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)   
 
 ---
